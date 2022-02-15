@@ -13,4 +13,4 @@ Official repo of the Akatori Website
 
 # How to contribute?
 - u can star the project
-- or make a donation
+- or make a small donation (I love money 🤑)
