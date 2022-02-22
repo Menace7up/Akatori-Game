@@ -1,5 +1,5 @@
 # Akatori Website
-Official repo of the Akatori Website
+Official repo of the Akatori Game Website
 
 # Donations
   - Bitcoin: `bc1q84ryls6w6fzrm4ny0f0yxpvz4gy49juj6u7mnq`
